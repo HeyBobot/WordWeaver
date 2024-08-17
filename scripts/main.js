@@ -1,4 +1,3 @@
-
 $(function() {
 WTF.init({
      heading: [
@@ -21,6 +20,9 @@ WTF.init({
              "clicking this will take you straight to @noun central",
              "today, i'm going to be @verb",
              "never stop @verb",
+             "anyone in chat @verb their @noun",
+             "@name what the fuck",
+             "an angel is losing her @noun"
         ],
          noun: [
              "love",
@@ -37,6 +39,9 @@ WTF.init({
              "minecraft",
              "pokemon",
              "fortnite",
+             "boysmell",
+             "buh",
+             "bean",
          ],
          adjective: [
              "cunty",
@@ -47,6 +52,7 @@ WTF.init({
              "submissive",
              "big",
              "zooted",
+             "close",
          ],
          verb: [
             "gaming",
@@ -56,6 +62,9 @@ WTF.init({
             "jiggling",
             "fucking",
             "jorking it",
+            "krunking",
+            "flicking",
+            "bustin",
         ],
         plural: [
             "whores",
@@ -64,6 +73,13 @@ WTF.init({
             "boobs",
             "freaks",
             "losers",
+        ],
+        name: [
+            "wriggly",
+            "guts",
+            "goku",
+            "jupiter",
+            "chat",
         ],
      });
 });
