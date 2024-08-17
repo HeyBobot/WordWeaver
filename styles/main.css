@@ -17,9 +17,9 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 	top: 50%;
 }
 
-body{ 
+/* body{ 
 	background-image: ("images/download.png");
-	background-image: linear-gradient(42deg, #000 0%, #16296B 100%);}
+	background-image: linear-gradient(42deg, #000 0%, #16296B 100%);} */
 
 #wrapper {
 	width: 710px;
