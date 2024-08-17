@@ -21,7 +21,8 @@ body{
 	background-color: #16296B;}
 
 #bgfey {
-	padding-left: 0;}
+	padding-left: 0;
+	scale: 50%;}
 
 #wrapper {
 	width: 710px;
