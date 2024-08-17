@@ -18,11 +18,9 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 }
 
 body{ 
-	background-color: #16296B;}
-
-bgfey{
-	max-width: 50%;
-	max-height: 50%}
+	background-color: #16296B;
+	background-size: contain;
+	background-repeat: no-repeat}
 
 #wrapper {
 	width: 710px;
