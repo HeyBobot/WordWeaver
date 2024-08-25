@@ -17,10 +17,18 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 	top: 50%;
 }
 
+.bg {
+  background-image: url("background.png");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
 body{ 
 	background-color: #16296B;
   background-image: url('background.png');
-  background-size: cover;
 }
 
 #wrapper {
