@@ -22,7 +22,8 @@ WTF.init({
              "never stop @verb",
              "anyone in chat @verb their @noun",
              "@name what the fuck",
-             "an angel is losing her @noun"
+             "an angel is losing her @noun",
+              "don't make fun of me i'll start @verb",
         ],
          noun: [
              "love",
@@ -65,6 +66,8 @@ WTF.init({
             "krunking",
             "flicking",
             "bustin",
+            "cumming",
+            "singing",
         ],
         plural: [
             "whores",
@@ -73,6 +76,7 @@ WTF.init({
             "boobs",
             "freaks",
             "losers",
+            "gays",
         ],
         name: [
             "wriggly",
@@ -80,6 +84,7 @@ WTF.init({
             "goku",
             "jupiter",
             "chat",
+            "roy mustang",
         ],
      });
 });
