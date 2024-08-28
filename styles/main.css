@@ -9,7 +9,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 */
 
 .loading {
-	background-color: #000;
+	background-color: #002366;
 	position: absolute;
 	opacity: 0.8;
 	margin: -24px 0 0 -24px;
