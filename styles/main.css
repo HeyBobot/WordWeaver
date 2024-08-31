@@ -18,7 +18,8 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 }
 
 body{ 
- background-color: #002366;
+ background: rgb(0,35,102);
+background: radial-gradient(circle, rgba(0,35,102,1) 0%, rgba(148,187,233,1) 100%);
 }
 
 #background {
