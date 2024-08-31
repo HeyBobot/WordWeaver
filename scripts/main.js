@@ -79,7 +79,7 @@ WTF.init({
             "gays",
         ],
         name: [
-            "wriggly",
+            "wrigley",
             "guts",
             "goku",
             "jupiter",
