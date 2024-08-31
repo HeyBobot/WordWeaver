@@ -24,6 +24,7 @@ WTF.init({
              "@name what the fuck",
              "an angel is losing her @noun",
               "don't make fun of me i'll start @verb",
+              "this stream is sponsored by @noun",
         ],
          noun: [
              "love",
