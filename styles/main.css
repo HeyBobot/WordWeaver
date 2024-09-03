@@ -56,13 +56,6 @@ header h1 {
 	transition: opacity 0.5s ease-out;
 }
 
-.feysprite {
-  position: fixed;
-  bottom: 1em;
-  left: 50%;
-  scale: 50%;
-}
-
 noscript {
 	font-weight: 800;
 	font-size: 48px;
