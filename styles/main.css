@@ -22,12 +22,7 @@ body{
 background: radial-gradient(circle, rgba(0,35,102,1) 0%, rgba(148,187,233,1) 100%);
 }
 
-.feysprite {
-  position: fixed;
-  bottom: 1em;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
+
 
 #wrapper {
 	width: 710px;
@@ -59,6 +54,13 @@ header h1 {
 
 #output.animate {
 	transition: opacity 0.5s ease-out;
+}
+
+.feysprite {
+  position: fixed;
+  bottom: 1em;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 noscript {
