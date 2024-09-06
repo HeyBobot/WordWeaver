@@ -30,7 +30,7 @@ background: radial-gradient(circle, rgba(0,35,102,1) 0%, rgba(148,187,233,1) 100
 }
 
 header, article {
-		font-family: "Mansalva", sans-serif;
+		font-family: "Alegreya", sans-serif;
 		font-weight: 400;
 		font-style: normal;
 		color: #fff;
@@ -87,7 +87,7 @@ aside {
 }
 
 footer {
-	font-family: "Mansalva";
+	font-family: "Alegreya";
 	position: absolute;
 	text-align: right;
 	line-height: 16px;
@@ -99,10 +99,10 @@ footer {
 }
 
 footer a {
-	font-family: "Mansalva";
+	font-family: "Alegreya";
 	color: #fff;
 }
 
 footer a:hover {
-	font-family: "Mansalva";
+	font-family: "Alegreya";
 }
