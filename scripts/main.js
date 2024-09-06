@@ -89,7 +89,7 @@ WTF.init({
             "balls",
             "bottoms",
             "boobs",
-             "dicks"
+             "dicks",
             "freaks",
             "losers",
             "gays",
