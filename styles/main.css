@@ -22,7 +22,9 @@ body{
 background: radial-gradient(circle, rgba(0,35,102,1) 0%, rgba(148,187,233,1) 100%);
 }
 
-
+.bg{
+	position: absolute;
+}
 
 #wrapper {
 	width: 710px;
