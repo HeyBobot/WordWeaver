@@ -20,6 +20,10 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 body{ 
 background: rgb(2,0,36);
 background: linear-gradient(45deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 50%);
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 #wrapper {
