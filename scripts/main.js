@@ -7,7 +7,7 @@ WTF.init({
              "another one!"
      ],
          template: [
-             "hello, my name is feyral starweaver, your friendly neighborhood @adjective @noun"
+             "hello, my name is feyral starweaver, your friendly neighborhood @adjective @noun",
              "chat i'm @verb",
              "i'm also the aspect of @noun",
              "ooooh, @noun!",
@@ -89,7 +89,7 @@ WTF.init({
             "balls",
             "bottoms",
             "boobs",
-             "dicks",
+             "dicks"
             "freaks",
             "losers",
             "gays",
