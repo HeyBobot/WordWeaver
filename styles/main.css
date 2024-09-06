@@ -19,7 +19,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 
 body{ 
  background: rgb(0,35,102);
-background-image: linear-gradient(180deg, #000, #203354);
+background-image: gradient(180deg, #000, #203354);
 }
 
 #wrapper {
