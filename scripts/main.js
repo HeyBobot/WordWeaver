@@ -101,6 +101,7 @@ WTF.init({
             "jupiter",
             "chat",
             "roy mustang",
+             "vesper",
         ],
      });
 });
