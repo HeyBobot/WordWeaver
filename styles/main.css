@@ -18,8 +18,11 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 }
 
 body{ 
- background: rgb(0,35,102);
-background-image: gradient(180deg, #000, #203354);
+background: rgb(2,0,36);
+background: -moz-linear-gradient(45deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 50%);
+background: -webkit-linear-gradient(45deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 50%);
+background: linear-gradient(45deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 50%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endColorstr="#090979",GradientType=1);
 }
 
 #wrapper {
